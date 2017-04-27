@@ -1,0 +1,13 @@
+{
+  "name": "DirtyTalk",
+  "version": "1.0.0",
+  "description": "Alexa Dirty Talk",
+  "main": "index.js",
+  "author": "Joschi von Rehberg",
+  "alexa": {
+    "applicationId": "amzn1.ask.skill.3b2d1ba8-17e2-4fee-a303-b91b2f00aeed"
+  },
+  "dependencies": {
+    "alexa-sdk": "1.0.9"
+  }
+}
