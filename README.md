@@ -6,3 +6,7 @@ Everybody is invited to contribute new ideas, but keep in mind: not everything c
 I will get in touch with Amazon to clearify if pull requests could be merged or not.
 
 Happy coding!
+
+Main ideas by:
+Joschi von Rehberg
+Simon Salmeri
