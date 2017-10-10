@@ -20,7 +20,7 @@ var reprompts = [
     "I'm going to Chris Brown you,",
     "I will wax your pole,",
     "Let me wax your clown,",
-    "Let me milk your goat",
+    "Let me milk your goat,",
     "Paddle my pink canoe,",
     "Please take your talents to south beach,",
     "Please walk my cat,",
