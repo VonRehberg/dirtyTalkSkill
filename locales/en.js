@@ -5,7 +5,10 @@ var introduction = "Who was nasty?";
 var reprompts = [
     "Do you like that?",
     "Do you want more?",
-    "You want some more?"
+    "You want some more?",
+    "Can you stand some more?",
+    "Is that what you want?",
+    "Do you like me to treat you like that?"
   ];
   
   var dirtyMessages = [
@@ -57,7 +60,11 @@ var reprompts = [
     "princess",
     "darling",
     "honey",
-    "sugar"
+    "sugar",
+    "evil dolphin",
+    "tricky snake",
+    "Gomer Pyle",
+    "Vader"
   ];
 
 module.exports = {
