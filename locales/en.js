@@ -1,6 +1,6 @@
-var goodByMessage = "See you next time. My little mucky pup!";
+var goodByeMessage = "See you next time. My little mucky pup!";
 var helpMessage = "Open the skill by saying 'Start dirty talk'. Between the different phrases you can ask for more dirty talk by saying 'more' or 'yes'. Would you like to start some dirty talk right now, you filthy beggar?";
-var introduction = "Who was nasty?";
+var introduction = "Welcome to our dirty talk session. Who was nasty?";
 
 var reprompts = [
     "Do you like that?",
@@ -68,7 +68,7 @@ var reprompts = [
   ];
 
 module.exports = {
-  goodByMessage: goodByMessage,
+  goodByeMessage: goodByeMessage,
   helpMessage: helpMessage,
   introduction: introduction,
   reprompts: reprompts,

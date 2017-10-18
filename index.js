@@ -1,6 +1,6 @@
 var Alexa = require('alexa-sdk');
 
-var goodByMessage,
+var goodByeMessage,
     helpMessage,
     introduction,
     reprompts,
@@ -20,7 +20,7 @@ function loadLocale(sLocale) {
       oLocale = require("./locales/en.js");
       break;
   }
-  goodByMessage = oLocale.goodByMessage;
+  goodByeMessage = oLocale.goodByeMessage;
   helpMessage = oLocale.helpMessage;
   introduction = oLocale.introduction;
   reprompts = oLocale.reprompts;

@@ -1,6 +1,6 @@
-var goodByMessage = "Bis zum nächsten mal. Du kleiner Schmutzfink";
+var goodByeMessage = "Bis zum nächsten mal. Du kleiner Schmutzfink";
 var helpMessage = "Starte den Skill mit dem Kommando 'Starte Dirty Talk'. Zwischen den Ansagen kannst du mit beliebigen Ansagen wie zum Beispiel 'Mehr' oder 'Weiter' nach weiteren Sprüchen verlangen. Möchtest du jetzt etwas Dirty Talk, du kleiner Schwerenöter?";
-var introduction = "Wer war böse?";
+var introduction = "Willkommen beim Dirty Talk! Sag mir doch... Wer war böse?";
 
 var reprompts = [
     "Möchtest du mehr",
@@ -171,7 +171,7 @@ var reprompts = [
   ];
 
 module.exports = {
-  goodByMessage: goodByMessage,
+  goodByeMessage: goodByeMessage,
   helpMessage: helpMessage,
   introduction: introduction,
   reprompts: reprompts,
